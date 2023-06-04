@@ -1,0 +1,10 @@
+.trending {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.pageTitle {
+  padding-top: 20px;
+  font-family: "Netflix Sans";
+}
